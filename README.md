@@ -20,12 +20,3 @@ Compilación y ejecución (desde este directorio):
 > javac EjecucionError_corregido.java
 > java EjecucionError_corregido
 
-Subida a GitHub (ejemplo):
-> git init
-> git add .
-> git commit -m "Añade códigos corregidos"
-> git branch -M main
-> git remote add origin https://github.com/TU_USUARIO/errores-java-report.git
-> git push -u origin main
-
-Sugerencia: toma capturas de pantalla del compilador (errores) y de la ejecución (salida en consola) para anexarlas al informe.
